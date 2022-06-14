@@ -1,0 +1,12 @@
+= RESTEasy Quick Starts
+
+RESTEasy Quick Starts are a collection of quick start applications for RESTEasy. For quick starts that require a Jakarta EE
+container, https://wildfly.org[WildFly] is used.
+
+Each module can be run independently unless otherwise noted in its README.
+
+== Requirements
+
+To compile you need a minimum of Java 11 and https://maven.apache.org[Maven].
+
+== Quick Start List
