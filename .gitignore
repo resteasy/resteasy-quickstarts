@@ -1,5 +1,9 @@
 # Ignore Maven target folder
 target/
+dependency-reduced-pom.xml
+
+# Formatting cache
+.cache/
 
 # Intellij
 *.iml
@@ -21,8 +25,6 @@ nbproject
 
 # VS Code
 **/.vscode/
-
-.cache/
 
 # macOS Files
 .DS_Store
