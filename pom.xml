@@ -32,7 +32,7 @@
 
     <groupId>dev.resteasy.quickstarts</groupId>
     <artifactId>resteasy-quickstarts-parent</artifactId>
-    <version>1.0.0.Alpha1-SNAPSHOT</version>
+    <version>6.1.0.Final-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <url>https://resteasy.dev</url>
