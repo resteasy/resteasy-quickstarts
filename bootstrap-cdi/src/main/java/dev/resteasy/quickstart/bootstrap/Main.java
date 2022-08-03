@@ -23,7 +23,7 @@ import jakarta.ws.rs.SeBootstrap;
 
 /**
  * An entry point for starting a REST container
- * 
+ *
  * @author <a href="mailto:jperkins@redhat.com">James R. Perkins</a>
  */
 public class Main {

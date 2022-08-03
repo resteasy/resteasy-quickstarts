@@ -29,7 +29,7 @@ import jakarta.ws.rs.core.Response;
 
 /**
  * A simple resource for creating a greeting.
- * 
+ *
  * @author <a href="mailto:jperkins@redhat.com">James R. Perkins</a>
  */
 @Path("/")
@@ -40,7 +40,7 @@ public class GreetingResource {
 
     /**
      * A {@link GET} method which returns a greeting for the name passed in, in plain text.
-     * 
+     *
      * @param name the name for the greeting
      * @return a response with a greeting in plain text
      */

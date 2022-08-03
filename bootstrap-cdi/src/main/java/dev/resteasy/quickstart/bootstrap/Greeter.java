@@ -24,7 +24,7 @@ import jakarta.validation.constraints.NotNull;
 
 /**
  * A simple greeter CDI bean.
- * 
+ *
  * @author <a href="mailto:jperkins@redhat.com">James R. Perkins</a>
  */
 @ApplicationScoped
@@ -32,7 +32,7 @@ public class Greeter {
 
     /**
      * Returns a greeting for the name provided.
-     * 
+     *
      * @param name the name to add to the greeting
      * @return a greeting
      */

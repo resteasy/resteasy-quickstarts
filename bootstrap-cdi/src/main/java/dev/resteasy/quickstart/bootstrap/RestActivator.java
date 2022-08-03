@@ -24,7 +24,7 @@ import jakarta.ws.rs.core.Application;
 
 /**
  * Activates the REST application.
- * 
+ *
  * @author <a href="mailto:jperkins@redhat.com">James R. Perkins</a>
  */
 @ApplicationPath("/rest")
